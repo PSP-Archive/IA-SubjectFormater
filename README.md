@@ -14,6 +14,6 @@ When this script is running and the IA goes down while it runs(it did happen) so
 This will probably only work on Linux because of the subproccess module
 
 
-Install the required modules from requirements.txt
+Install the required modules from requirements.txt first
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE v3.
